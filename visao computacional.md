@@ -40,6 +40,7 @@ https://open.spotify.com/show/063Gk9KSQAUXAbP1HjsXYn
 https://open.spotify.com/episode/72a9hWQdwwEVr14pc7p5Ua
 
 http://bit.ly/podcast-cv
+
 --------------------------------------------------------------------
 # Processamento de imagens
 
