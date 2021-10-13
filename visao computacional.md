@@ -62,3 +62,4 @@ https://www.youtube.com/playlist?list=PL-t7zzWJWPtx3enns2ZAV6si2p9zGhZJX
     
 - http://introtodeeplearning.com/
 - https://developers.google.com/machine-learning/crash-course
+- https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=07-StanfordML-LATAM&utm_content=07-StanfordML-LATAM&campaignid=6516185036&adgroupid=78240079917&device=c&keyword=machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=516961974644&hide_mobile_promo&gclid=EAIaIQobChMIwaeehYbI8wIVhYnICh2qrgzpEAAYAyAAEgIyiPD_BwE
